@@ -1,5 +1,12 @@
-h1{
- font-weight: 500;
+
+h2{
+  font-family: Niveau Grotesk;
+  font-size: 38px;
+  margin-bottom: 50px;
+}
+h3{
+  font-family: Niveau Grotesk;
+  font-size: 34px;
 }
 body{
   padding-top: 70px;
@@ -47,4 +54,11 @@ ul{
 }
 ul a{
   color: darkgreen;
+}
+#emailForm{
+  height: 100px;
+  width: 50%;
+}
+.comingSoon{
+  font-size: 50%;
 }
