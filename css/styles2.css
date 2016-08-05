@@ -1,0 +1,22 @@
+h1{
+  font-family: Niveau Grotesk;
+}
+body{
+  padding-top: 70px;
+}
+.navbar{
+  background-color: black;
+}
+#navBar{
+  float: right;
+  margin-right: 50px;
+  color: silver;
+  padding-top: 12px;
+}
+a{
+  color: silver;
+  margin-right: 20px;
+}
+.currentLink{
+  color: skyblue;
+}
