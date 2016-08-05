@@ -1,22 +1,50 @@
 h1{
-  font-family: Niveau Grotesk;
+ font-weight: 500;
 }
 body{
   padding-top: 70px;
+  max-width: 100%;
+  text-align: center;
+  background-color: skyblue;
 }
 .navbar{
   background-color: black;
 }
-#navBar{
+.navBar{
   float: right;
   margin-right: 50px;
-  color: silver;
+  color: skyblue;
   padding-top: 12px;
 }
 a{
-  color: silver;
+  color: skyblue;
   margin-right: 20px;
 }
 .currentLink{
-  color: skyblue;
+  color: silver;
+}
+#itsMe{
+  position: absolute;
+  width: 500px;
+  height: 300px;
+  z-index: 15;
+  top: 50%;
+  left: 40%;
+  margin: -100px 0 0 -150px;
+  font-family: Niveau Grotesk;
+  color: black;
+}
+.lights{
+  color: #FFFF66;
+}
+#octoCat{
+  width: 15px;
+  height: auto;
+}
+ul{
+  list-style: none;
+  font-size: 22px;
+}
+ul a{
+  color: darkgreen;
 }
