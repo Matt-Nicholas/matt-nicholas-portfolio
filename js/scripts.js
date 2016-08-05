@@ -23,5 +23,36 @@ $(document).ready(function(){
     $(".interestsHidden").toggle();
     $(".interestsShowing").toggle();
   });
-
+  $(".moeHidden").click(function(){
+    $(".moeHidden").toggle();
+    $(".moeShowing").toggle();
+  });
+  $(".moeShowing").click(function(){
+    $(".moeHidden").toggle();
+    $(".moeShowing").toggle();
+  });
+  $(".sillyHidden").click(function(){
+    $(".sillyHidden").toggle();
+    $(".sillyShowing").toggle();
+  });
+  $(".sillyShowing").click(function(){
+    $(".sillyHidden").toggle();
+    $(".sillyShowing").toggle();
+  });
+  $(".vacaHidden").click(function(){
+    $(".vacaHidden").toggle();
+    $(".vacaShowing").toggle();
+  });
+  $(".vacaShowing").click(function(){
+    $(".vacaHidden").toggle();
+    $(".vacaShowing").toggle();
+  });
+  $(".shroomHidden").click(function(){
+    $(".shroomHidden").toggle();
+    $(".shroomShowing").toggle();
+  });
+  $(".shroomShowing").click(function(){
+    $(".shroomHidden").toggle();
+    $(".shroomShowing").toggle();
+  });
 });
