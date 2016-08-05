@@ -1,3 +1,21 @@
 h1{
   font-family: Niveau Grotesk;
 }
+body{
+  padding-top: 70px;
+  background: url(../img/image.jpeg);
+  max-width: 100%
+}
+.navbar{
+  background-color: black;
+}
+#navBar{
+  float: right;
+  margin-right: 50px;
+  color: silver;
+  padding-top: 10px;
+}
+a{
+  color: silver;
+  margin-right: 20px;
+}
