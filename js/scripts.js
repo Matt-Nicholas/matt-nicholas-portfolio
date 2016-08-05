@@ -1,0 +1,27 @@
+$(document).ready(function(){
+  $(".aboutHidden").click(function(){
+    $(".aboutHidden").toggle();
+    $(".aboutShowing").toggle();
+  });
+  $(".aboutShowing").click(function(){
+    $(".aboutHidden").toggle();
+    $(".aboutShowing").toggle();
+  });
+  $(".eduHidden").click(function(){
+    $(".eduHidden").toggle();
+    $(".eduShowing").toggle();
+  });
+  $(".eduShowing").click(function(){
+    $(".eduHidden").toggle();
+    $(".eduShowing").toggle();
+  });
+  $(".interestsHidden").click(function(){
+    $(".interestsHidden").toggle();
+    $(".interestsShowing").toggle();
+  });
+  $(".interestsShowing").click(function(){
+    $(".interestsHidden").toggle();
+    $(".interestsShowing").toggle();
+  });
+
+});
