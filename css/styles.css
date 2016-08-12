@@ -1,28 +1,34 @@
 h1{
   font-weight: 500;
 }
+
 body{
   padding-top: 70px;
   background: url(../img/image.jpeg);
   max-width: 100%;
   text-align: center;
 }
+
 .navbar{
   background-color: black;
 }
+
 .navBar{
   float: right;
   margin-right: 50px;
   color: skyblue;
   padding-top: 12px;
 }
+
 a{
   color: skyblue;
   margin-right: 20px;
 }
+
 .currentLink{
   color: silver;
 }
+
 #itsMe{
   position: absolute;
   width: 500px;
@@ -34,6 +40,7 @@ a{
   font-family: Niveau Grotesk;
   color: black;
 }
+
 .lights{
   color: #FFFF66;
 }

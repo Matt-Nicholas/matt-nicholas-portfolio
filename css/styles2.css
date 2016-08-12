@@ -3,32 +3,39 @@ h2{
   font-size: 38px;
   margin-bottom: 50px;
 }
+
 h3{
   font-family: Niveau Grotesk;
   font-size: 34px;
 }
+
 body{
   padding-top: 70px;
   max-width: 100%;
   text-align: center;
   background-color: skyblue;
 }
+
 .navbar{
   background-color: black;
 }
+
 .navBar{
   float: right;
   margin-right: 50px;
   color: skyblue;
   padding-top: 12px;
 }
+
 a{
   color: skyblue;
   margin-right: 20px;
 }
+
 .currentLink{
   color: silver;
 }
+
 #itsMe{
   position: absolute;
   width: 500px;
@@ -40,94 +47,121 @@ a{
   font-family: Niveau Grotesk;
   color: black;
 }
+
 .lights{
   color: #FFFF66;
 }
+
 #octoCat{
   width: 25px;
   height: auto;
 }
+
 ul{
   list-style: none;
   font-size: 22px;
 }
+
 ul a{
   color: darkgreen;
 }
+
 #emailForm{
   height: 100px;
   width: 50%;
 }
+
 .comingSoon{
   font-size: 50%;
 }
+
 #aboutText p{
   font-size: 16px;
 }
+
 #education{
   text-align: left;
 }
+
 #education p{
   font-size: 16px;
 }
+
 #education li{
   font-size: 16px;
 }
+
 #interests p{
   font-size: 16px;
 }
+
 #interests li{
   font-size: 16px;
 }
+
 ol{
   list-style: circle;
 }
+
 .aboutShowing{
   display: none;
   cursor: crosshair;
 }
+
 .eduShowing{
   display: none;
   cursor: crosshair;
 }
+
 .interestsShowing{
   display: none;
   cursor: crosshair;
 }
+
 .moeShowing{
   display: none;
   cursor: crosshair;
 }
+
 .sillyShowing{
   display: none;
   cursor: crosshair;
 }
+
 .vacaShowing{
   display: none;
   cursor: crosshair;
 }
+
 .shroomShowing{
   display: none;
   cursor: crosshair;
 }
+
 .aboutHidden{
   cursor: crosshair;
 }
+
 .eduHidden{
   cursor: crosshair;
 }
+
 .interestsHidden{
   cursor: crosshair;
 }
+
 .moeHidden{
   cursor: crosshair;
 }
+
 .sillyHidden{
   cursor: crosshair;
 }
+
 .vacaHidden{
   cursor: crosshair;
 }
+
 .shroomHidden{
   cursor: crosshair;
 }
