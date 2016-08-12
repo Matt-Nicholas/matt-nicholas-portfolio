@@ -11,7 +11,7 @@ This site can be used to learn about me and view my work
 ## Setup/Installation Requirements
 
 * open browser
-* visit https://matt-nicholas.github.io/matt-nicholas-portfolio_
+* visit https://matt-nicholas.github.io/matt-nicholas-portfolio
 
 
 ## Support and contact details
